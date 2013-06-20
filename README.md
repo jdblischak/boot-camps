@@ -1,7 +1,5 @@
-Data Science for the Social Good Software Carpentry Boot Camp
+Software Carpentry Boot Camps
 =============================
-
-Dates: June 4-5, 2013
 
 This repository contains material useful when preparing and running a
 boot camp. This can include lecture notes, lesson plans, IPython
